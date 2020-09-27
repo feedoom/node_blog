@@ -13,7 +13,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "http-server": "^0.12.3",
     "mysql": "^2.18.1",
-    "redis": "^3.0.2"
+    "redis": "^3.0.2",
+    "xss": "^1.0.8"
   }
 }
