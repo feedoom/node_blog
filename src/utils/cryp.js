@@ -17,3 +17,5 @@ function genPassword(password) {
 module.exports = {
   genPassword,
 };
+// const result = genPassword("123");
+// console.log(result);
